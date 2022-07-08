@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780383903630",
+    "project_id": "mytest1-cdadf",
+    "storage_bucket": "mytest1-cdadf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780383903630:android:6a9a06196ca8c90b260edf",
+        "android_client_info": {
+          "package_name": "com.mymeattest.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780383903630-ee61frv2c6uugmiv41ih3lqd8v53m4lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf6nWtRqFzENhvYzCDVzVSLLBbC7IoTik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780383903630-ee61frv2c6uugmiv41ih3lqd8v53m4lc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
